@@ -9,3 +9,5 @@ Play my text adventure! [Click here to start](https://stinky-bird.glitch.me/)
 
 Try playing my game [here!](https://more-complex-game.glitch.me) 
 Press Space to talk to the NPC, and collect coins to win. Press the spacebar when near a coin to collect it!
+
+Test out my Snapchat-style filter [here!](https://snapchat-doge.glitch.me)
